@@ -30,6 +30,7 @@ fuction displaydata(countries){
 root.appendchild(div)
     })
 
+
     }
 
 

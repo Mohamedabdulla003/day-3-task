@@ -1,1 +1,17 @@
 const URL = "https://restcountries.com/v3.1/all"
+
+const myreg = new XMLHttpRequest();
+console.taple(obj)
+Reg.Add addEventListener("load",Fuction () {
+    const.obj => JSON.parse (this.responce)
+    for(let val of obj){
+        console.log(val,flag.svg)
+    }
+
+});
+myregreg.open ("GET ,URL");
+myregReg.send ()
+
+
+
+

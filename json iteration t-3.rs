@@ -6,4 +6,4 @@ let obj1 = {
     age : 5
     name ;"abdulla"
  }
- console.log(obj1,obj2)
+ 
